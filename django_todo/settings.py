@@ -28,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 ALLOWED_HOSTS = ['8000-sian504-fullstackdjango-qkbqk7bkcb8.ws-eu108.gitpod.io',
-                 'https://slj1987-django-todo-app-4ac1f09e903a.herokuapp.com'
+                 'slj1987-django-todo-app-4ac1f09e903a.herokuapp.com'
                 ]
 
 # Application definition
